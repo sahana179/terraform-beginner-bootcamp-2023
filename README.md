@@ -1,6 +1,7 @@
 # Terraform Beginner Bootcamp 2023
 
 ##Semantic versioning for tagging
+
 [semver.org/](https://semver.org/)
 
 Given a version number **MAJOR.MINOR.PATCH**, increment the:
